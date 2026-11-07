@@ -1,0 +1,7 @@
+__pycache__/
+*.db
+*.xlsx
+*.png
+!docs/img/*.png
+venv/
+.venv/
